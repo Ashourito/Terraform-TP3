@@ -5,10 +5,6 @@ Importer les fichiers
 
 git clone https://github.com/Ashourito/Terraform-TP3.git
 
-## Azure 
-
-Créer une clée SSH 
-
 ## Terraform
 
 terraform init pour initialiser le projet Terraform
