@@ -1,7 +1,7 @@
 # Terraform-TP3
 
 ## Installation
-Importe fils
+Importe files
 
 git clone https://github.com/Ashourito/Terraform-TP3.git
 
