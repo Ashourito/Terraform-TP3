@@ -1,16 +1,15 @@
 # Terraform-TP3
 
 ## Installation
-Importer les fichiers
+Importe fils
 
 git clone https://github.com/Ashourito/Terraform-TP3.git
 
-## Terraform
+## Usage
 
-terraform init pour initialiser le projet Terraform
-
-terraform plan pour visualiser les changements
-
-terraform apply pour créer la machine virtuelle
-
-ssh admin@<adresse_ip_publique> pour se connecter à la machine virtuelle
+To use this configuration:
+1. Ensure you have Terraform installed and Azure CLI authenticated.
+2. Define the required variables.
+3. Run `terraform init` to initialize the Terraform configuration.
+4. Run `terraform plan` to review the changes that will be made.
+5. Run `terraform apply` to apply the changes to your Azure environment.
